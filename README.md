@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/debadatta-pujhari-072a622b5"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://discord.com/users/debadatta0821"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-discord-48.png" alt="Discord"></a> &nbsp; &nbsp;
-<a href="https://github.com/datt03"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-github-48.png" alt="GitHub"></a> &nbsp; &nbsp;
+<a href="https://github.com/datt03"><img src="https://github.com/datt03/datt03/blob/main/github-mark-white.png" alt="GitHub"></a> &nbsp; &nbsp;
 <a href="mailto:debadattapujhari03@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
