@@ -33,7 +33,8 @@ Stay curious, and happy coding! 🚀
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <h1>📊 Git Stats</h1>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=datt03&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/datt03)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datt03&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datt03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
