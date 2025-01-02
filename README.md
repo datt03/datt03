@@ -27,13 +27,16 @@ You might not see my work publicly, but rest assured, the gears are always turni
 
 Stay curious, and happy coding! 🚀
 
+
+[//]: # (<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">)
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <h1>📊 Git Stats</h1>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=datt03&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/datt03)
 
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <h2>💻 Programming Languages 🌐</h2>
 
