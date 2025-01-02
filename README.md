@@ -59,7 +59,7 @@
   <a href="mailto:debadattapujhari03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-debadattapujhari03@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-⭐️ From [Debadatta](https://github.com/datt03)
+⭐️ From [Debadatta](https://github.com/datt03)    Hare Krishna 🙏
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
