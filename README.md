@@ -8,15 +8,16 @@
 <h1>About Me </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Exploring-new%20technologies-blue?style=flat&logo=exploration" alt="Exploring">
     <img src="https://img.shields.io/badge/Studying-4th%20year%20student-orange?style=flat&logo=study" alt="Studying">
     <img src="https://img.shields.io/badge/Intern-EPAM%20Systems-green?style=flat&logo=work" alt="Intern">
+    <img src="https://img.shields.io/badge/University-S'O'A%20University-green?style=flat&logo=study" alt="University">
     <img src="https://img.shields.io/badge/Hobbies-Explore%20technology-red?style=flat&logo=technology" alt="Hobbies">
     <img src="https://img.shields.io/badge/Engaging-Student%20clubs-purple?style=flat&logo=clubs" alt="Engaging">
     <img src="https://img.shields.io/badge/Volunteering-Social%20initiatives-blue?style=flat&logo=volunteering" alt="Volunteering">
     <img src="https://img.shields.io/badge/Socially%20Inactive-Introvert-lightgrey?style=flat&logo=social" alt="Socially Inactive">
     <img src="https://img.shields.io/badge/Parties-Avoid-black?style=flat&logo=party" alt="Avoid Parties">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Private%20Repositories-important?style=for-the-badge&logo=lock" alt="Private Repositories">
@@ -57,7 +58,9 @@
   <a href="https://github.com/datt03" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-github.com/datt03-blue?style=flat&logo=github"></a>
   <a href="https://discord.com/users/debadatta0821" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-debadatta0821-blue?style=flat&logo=discord"></a>
   <a href="mailto:debadattapujhari03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-debadattapujhari03@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://t.me/datt0616" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/datt0616-blue?style=flat&logo=telegram"></a>
 </p>
+
 
 ⭐️ From [Debadatta](https://github.com/datt03)    Hare Krishna 🙏
 
