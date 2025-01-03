@@ -63,7 +63,7 @@
   <a href="https://github.com/datt03" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-github.com/datt03-blue?style=flat&logo=github"></a>
   <a href="https://discord.com/users/debadatta0821" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-debadatta0821-blue?style=flat&logo=discord"></a>
   <a href="mailto:debadattapujhari03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-debadattapujhari03@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://t.me/datt0616" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/datt0616-blue?style=flat&logo=telegram"></a>
+  <a href="https://t.me/devpool0812" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/datt0616-blue?style=flat&logo=telegram"></a>
 </p>
 
 
