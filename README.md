@@ -27,14 +27,19 @@
 
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<h1>📊 Git Stats</h1>
 
-<p align="right">
+[//]: # (<h1>📊 Git Stats</h1>)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datt03&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-</p>
+[//]: # ()
+[//]: # (<p align="right">)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+[//]: # ()
+[//]: # (  ![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=datt03&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy&#41;)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">)
 
 <h2 align="left">💻 Programming Languages 🌐</h2>
 
