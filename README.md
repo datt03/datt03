@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Private%20Repositories-important?style=for-the-badge&logo=lock" alt="Private Repositories">
   <br>
-  <strong>Sorry!</strong> All of my repositories are private.
+  <strong>Sorry!</strong> Most of my repositories are private.
 </p>
 
 
